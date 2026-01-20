@@ -1,0 +1,5 @@
+{
+  "name": "CineWave - Movie Explorer Dashboard",
+  "description": "A feature-rich movie discovery platform built with React and TMDB API, featuring advanced search, filtering, infinite scrolling, and detailed movie insights.",
+  "requestFramePermissions": []
+}
