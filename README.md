@@ -42,5 +42,4 @@ A modern movie discovery app built with React, TypeScript, and Vite. Browse thou
 - View related/recommended movies in the details modal
 
 ### Reset Filters
-- Click the "Reset" button in the filters sidebar to clear all filters
 - Click the logo or clear button (X) in the search bar to reset everything
